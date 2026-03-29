@@ -1,3 +1,12 @@
+# Ignore data and model files
+*.csv
+*.pkl
+*.joblib
+*.h5
+*.xlsx
+*.parquet
+*.feather
+*.npz
 # Ignore all CSV data files in datas and job_scraper_pipeline/data
 /datas/*.csv
 /job_scraper_pipeline/data/*.csv
