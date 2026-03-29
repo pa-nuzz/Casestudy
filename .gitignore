@@ -1,0 +1,9 @@
+# Ignore all CSV data files in datas and job_scraper_pipeline/data
+/datas/*.csv
+/job_scraper_pipeline/data/*.csv
+# Ignore Python cache
+__pycache__/
+# Ignore model artifacts
+*.pkl
+# Ignore system files
+.DS_Store
