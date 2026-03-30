@@ -1,0 +1,802 @@
+[
+  {
+    "job_title": "Senior Python Developer",
+    "company": "Payne, Roberts and Davis",
+    "location": "Stewartbury, AA",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/senior-python-developer-0.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Energy engineer",
+    "company": "Vasquez-Davidson",
+    "location": "Christopherville, AA",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/energy-engineer-1.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Legal executive",
+    "company": "Jackson, Chambers and Levy",
+    "location": "Port Ericaburgh, AA",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/legal-executive-2.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Fitness centre manager",
+    "company": "Savage-Bradley",
+    "location": "East Seanview, AP",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/fitness-centre-manager-3.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Product manager",
+    "company": "Ramirez Inc",
+    "location": "North Jamieview, AP",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/product-manager-4.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Medical technical officer",
+    "company": "Rogers-Yates",
+    "location": "Davidville, AP",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/medical-technical-officer-5.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Physiological scientist",
+    "company": "Kramer-Klein",
+    "location": "South Christopher, AE",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/physiological-scientist-6.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Textile designer",
+    "company": "Meyers-Johnson",
+    "location": "Port Jonathan, AE",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/textile-designer-7.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Television floor manager",
+    "company": "Hughes-Williams",
+    "location": "Osbornetown, AE",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/television-floor-manager-8.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Waste management officer",
+    "company": "Jones, Williams and Villa",
+    "location": "Scotttown, AP",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/waste-management-officer-9.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Software Engineer (Python)",
+    "company": "Garcia PLC",
+    "location": "Ericberg, AE",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/software-engineer-python-10.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Interpreter",
+    "company": "Gregory and Sons",
+    "location": "Ramireztown, AE",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/interpreter-11.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Architect",
+    "company": "Clark, Garcia and Sosa",
+    "location": "Figueroaview, AA",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/architect-12.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Meteorologist",
+    "company": "Bush PLC",
+    "location": "Kelseystad, AA",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/meteorologist-13.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Audiological scientist",
+    "company": "Salazar-Meyers",
+    "location": "Williamsburgh, AE",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/audiological-scientist-14.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "English as a second language teacher",
+    "company": "Parker, Murphy and Brooks",
+    "location": "Mitchellburgh, AE",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/english-as-a-second-language-teacher-15.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Surgeon",
+    "company": "Cruz-Brown",
+    "location": "West Jessicabury, AA",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/surgeon-16.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Equities trader",
+    "company": "Macdonald-Ferguson",
+    "location": "Maloneshire, AE",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/equities-trader-17.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Newspaper journalist",
+    "company": "Williams, Peterson and Rojas",
+    "location": "Johnsonton, AA",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/newspaper-journalist-18.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Materials engineer",
+    "company": "Smith and Sons",
+    "location": "South Davidtown, AP",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/materials-engineer-19.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Python Programmer (Entry-Level)",
+    "company": "Moss, Duncan and Allen",
+    "location": "Port Sara, AE",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/python-programmer-entry-level-20.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Product/process development scientist",
+    "company": "Gomez-Carroll",
+    "location": "Marktown, AA",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/product-process-development-scientist-21.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Scientist, research (maths)",
+    "company": "Manning, Welch and Herring",
+    "location": "Laurenland, AE",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/scientist-research-maths-22.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Ecologist",
+    "company": "Lee, Gutierrez and Brown",
+    "location": "Lauraton, AP",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/ecologist-23.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Materials engineer",
+    "company": "Davis, Serrano and Cook",
+    "location": "South Tammyberg, AP",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/materials-engineer-24.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Historic buildings inspector/conservation officer",
+    "company": "Smith LLC",
+    "location": "North Brandonville, AP",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/historic-buildings-inspector-conservation-officer-25.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Data scientist",
+    "company": "Thomas Group",
+    "location": "Port Robertfurt, AA",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/data-scientist-26.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Psychiatrist",
+    "company": "Silva-King",
+    "location": "Burnettbury, AE",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/psychiatrist-27.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Structural engineer",
+    "company": "Pierce-Long",
+    "location": "Herbertside, AA",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/structural-engineer-28.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Immigration officer",
+    "company": "Walker-Simpson",
+    "location": "Christopherport, AP",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/immigration-officer-29.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Python Programmer (Entry-Level)",
+    "company": "Cooper and Sons",
+    "location": "West Victor, AE",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/python-programmer-entry-level-30.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Neurosurgeon",
+    "company": "Donovan, Gonzalez and Figueroa",
+    "location": "Port Aaron, AP",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/neurosurgeon-31.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Broadcast engineer",
+    "company": "Morgan, Butler and Bennett",
+    "location": "Loribury, AA",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/broadcast-engineer-32.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Make",
+    "company": "Snyder-Lee",
+    "location": "Angelastad, AP",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/make-33.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Nurse, adult",
+    "company": "Harris PLC",
+    "location": "Larrytown, AE",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/nurse-adult-34.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Air broker",
+    "company": "Washington PLC",
+    "location": "West Colin, AP",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/air-broker-35.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Editor, film/video",
+    "company": "Brown, Price and Campbell",
+    "location": "West Stephanie, AP",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/editor-film-video-36.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Production assistant, radio",
+    "company": "Mcgee PLC",
+    "location": "Laurentown, AP",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/production-assistant-radio-37.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Engineer, communications",
+    "company": "Dixon Inc",
+    "location": "Wrightberg, AP",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/engineer-communications-38.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Sales executive",
+    "company": "Thompson, Sheppard and Ward",
+    "location": "Alberttown, AE",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/sales-executive-39.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Software Developer (Python)",
+    "company": "Adams-Brewer",
+    "location": "Brockburgh, AE",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/software-developer-python-40.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Futures trader",
+    "company": "Schneider-Brady",
+    "location": "North Jason, AE",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/futures-trader-41.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Tour manager",
+    "company": "Gonzales-Frank",
+    "location": "Arnoldhaven, AE",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/tour-manager-42.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Cytogeneticist",
+    "company": "Smith-Wong",
+    "location": "Lake Destiny, AP",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/cytogeneticist-43.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Designer, multimedia",
+    "company": "Pierce-Herrera",
+    "location": "South Timothyburgh, AP",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/designer-multimedia-44.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Trade union research officer",
+    "company": "Aguilar, Rivera and Quinn",
+    "location": "New Jimmyton, AE",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/trade-union-research-officer-45.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Chemist, analytical",
+    "company": "Lowe, Barnes and Thomas",
+    "location": "New Lucasbury, AP",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/chemist-analytical-46.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Programmer, multimedia",
+    "company": "Lewis, Gonzalez and Vasquez",
+    "location": "Port Cory, AE",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/programmer-multimedia-47.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Engineer, broadcasting (operations)",
+    "company": "Taylor PLC",
+    "location": "Gileston, AA",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/engineer-broadcasting-operations-48.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Teacher, primary school",
+    "company": "Oliver, Jones and Ramirez",
+    "location": "Cindyshire, AA",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/teacher-primary-school-49.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Python Developer",
+    "company": "Rivera and Sons",
+    "location": "East Michaelfort, AA",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/python-developer-50.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Manufacturing systems engineer",
+    "company": "Garcia PLC",
+    "location": "Joybury, AE",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/manufacturing-systems-engineer-51.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Producer, television/film/video",
+    "company": "Johnson, Wells and Kramer",
+    "location": "Emmatown, AE",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/producer-television-film-video-52.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Scientist, forensic",
+    "company": "Gonzalez LLC",
+    "location": "Colehaven, AP",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/scientist-forensic-53.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Bonds trader",
+    "company": "Morgan, White and Macdonald",
+    "location": "Port Coryton, AE",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/bonds-trader-54.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Editorial assistant",
+    "company": "Robinson-Fitzpatrick",
+    "location": "Amyborough, AA",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/editorial-assistant-55.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Photographer",
+    "company": "Waters, Wilson and Hoover",
+    "location": "Reynoldsville, AA",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/photographer-56.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Retail banker",
+    "company": "Hill LLC",
+    "location": "Port Billy, AP",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/retail-banker-57.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Jewellery designer",
+    "company": "Li-Gregory",
+    "location": "Adamburgh, AA",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/jewellery-designer-58.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Ophthalmologist",
+    "company": "Fisher, Ryan and Coleman",
+    "location": "Wilsonmouth, AA",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/ophthalmologist-59.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Back-End Web Developer (Python, Django)",
+    "company": "Stewart-Alexander",
+    "location": "South Kimberly, AA",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/back-end-web-developer-python-django-60.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Licensed conveyancer",
+    "company": "Abbott and Sons",
+    "location": "Benjaminland, AP",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/licensed-conveyancer-61.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Futures trader",
+    "company": "Bryant, Santana and Davenport",
+    "location": "Zacharyport, AA",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/futures-trader-62.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Counselling psychologist",
+    "company": "Smith PLC",
+    "location": "Port Devonville, AE",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/counselling-psychologist-63.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Insurance underwriter",
+    "company": "Patterson-Singh",
+    "location": "East Thomas, AE",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/insurance-underwriter-64.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Engineer, automotive",
+    "company": "Martinez-Berry",
+    "location": "New Jeffrey, AP",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/engineer-automotive-65.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Producer, radio",
+    "company": "May, Taylor and Fisher",
+    "location": "Davidside, AA",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/producer-radio-66.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Dispensing optician",
+    "company": "Bailey, Owen and Thompson",
+    "location": "Jamesville, AA",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/dispensing-optician-67.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Designer, fashion/clothing",
+    "company": "Vasquez Ltd",
+    "location": "New Kelly, AP",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/designer-fashion-clothing-68.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Chartered loss adjuster",
+    "company": "Leblanc LLC",
+    "location": "Lake Antonio, AA",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/chartered-loss-adjuster-69.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Back-End Web Developer (Python, Django)",
+    "company": "Jackson, Ali and Mckee",
+    "location": "New Elizabethside, AA",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/back-end-web-developer-python-django-70.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Forest/woodland manager",
+    "company": "Blankenship, Knight and Powell",
+    "location": "Millsbury, AE",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/forest-woodland-manager-71.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Clinical cytogeneticist",
+    "company": "Patton, Haynes and Jones",
+    "location": "Lloydton, AP",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/clinical-cytogeneticist-72.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Print production planner",
+    "company": "Wood Inc",
+    "location": "Port Jeremy, AA",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/print-production-planner-73.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Systems developer",
+    "company": "Collins Group",
+    "location": "New Elizabethtown, AA",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/systems-developer-74.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Graphic designer",
+    "company": "Flores-Nelson",
+    "location": "Charlesstad, AE",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/graphic-designer-75.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Writer",
+    "company": "Mitchell, Jones and Olson",
+    "location": "Josephbury, AE",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/writer-76.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Field seismologist",
+    "company": "Howard Group",
+    "location": "Seanfurt, AA",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/field-seismologist-77.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Chief Strategy Officer",
+    "company": "Kramer-Edwards",
+    "location": "Williambury, AA",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/chief-strategy-officer-78.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Air cabin crew",
+    "company": "Berry-Houston",
+    "location": "South Jorgeside, AP",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/air-cabin-crew-79.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Python Programmer (Entry-Level)",
+    "company": "Mathews Inc",
+    "location": "Robertborough, AP",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/python-programmer-entry-level-80.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Warden/ranger",
+    "company": "Riley-Johnson",
+    "location": "South Saratown, AP",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/warden-ranger-81.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Sports therapist",
+    "company": "Spencer and Sons",
+    "location": "Hullview, AA",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/sports-therapist-82.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Arts development officer",
+    "company": "Camacho-Sanchez",
+    "location": "Philipland, AP",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/arts-development-officer-83.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Printmaker",
+    "company": "Oliver and Sons",
+    "location": "North Patty, AE",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/printmaker-84.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Health and safety adviser",
+    "company": "Eaton PLC",
+    "location": "North Stephen, AE",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/health-and-safety-adviser-85.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Manufacturing systems engineer",
+    "company": "Stanley-Frederick",
+    "location": "Stevensland, AP",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/manufacturing-systems-engineer-86.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Programmer, applications",
+    "company": "Bradley LLC",
+    "location": "Reyesstad, AE",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/programmer-applications-87.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Medical physicist",
+    "company": "Parker, Goodwin and Zavala",
+    "location": "Bellberg, AP",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/medical-physicist-88.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Media planner",
+    "company": "Kim-Miles",
+    "location": "North Johnland, AE",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/media-planner-89.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Software Developer (Python)",
+    "company": "Moreno-Rodriguez",
+    "location": "Martinezburgh, AE",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/software-developer-python-90.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Surveyor, land/geomatics",
+    "company": "Brown-Ortiz",
+    "location": "Joshuatown, AE",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/surveyor-land-geomatics-91.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Legal executive",
+    "company": "Hartman PLC",
+    "location": "West Ericstad, AA",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/legal-executive-92.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Librarian, academic",
+    "company": "Brooks Inc",
+    "location": "Tuckertown, AE",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/librarian-academic-93.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Barrister",
+    "company": "Washington-Castillo",
+    "location": "Perezton, AE",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/barrister-94.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Museum/gallery exhibitions officer",
+    "company": "Nguyen, Yoder and Petty",
+    "location": "Lake Abigail, AE",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/museum-gallery-exhibitions-officer-95.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Radiographer, diagnostic",
+    "company": "Holder LLC",
+    "location": "Jacobshire, AP",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/radiographer-diagnostic-96.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Database administrator",
+    "company": "Yates-Ferguson",
+    "location": "Port Susan, AE",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/database-administrator-97.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Furniture designer",
+    "company": "Ortega-Lawrence",
+    "location": "North Tiffany, AA",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/furniture-designer-98.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  },
+  {
+    "job_title": "Ship broker",
+    "company": "Fuentes, Walls and Castro",
+    "location": "Michelleville, AP",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/ship-broker-99.html",
+    "date_scraped": "2026-03-30 13:20:59",
+    "source": "realpython.github.io/fake-jobs"
+  }
+]
