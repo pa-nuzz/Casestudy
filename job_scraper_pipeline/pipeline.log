@@ -1,0 +1,9 @@
+2026-03-30 13:10:14,636 - INFO - Running initial scrape...
+2026-03-30 13:10:14,636 - INFO - Starting daily job scraping...
+2026-03-30 13:10:18,101 - INFO - Successfully scraped 0 jobs
+2026-03-30 13:10:18,105 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-30 13:10:18,105 - INFO - Scheduler started. Running daily at 9:00 AM
+2026-03-30 13:10:18,105 - INFO - Press Ctrl+C to exit
+2026-03-30 13:10:18,105 - INFO - Added job "Daily Job Scraper" to job store "default"
+2026-03-30 13:10:18,105 - INFO - Scheduler started
+2026-03-30 13:12:11,765 - INFO - Scheduler stopped
