@@ -1,0 +1,25 @@
+name: Daily Job Scraper
+
+on:
+  schedule:
+    - cron: '0 9 * * *'
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    - run: |
+        cd job_scraper_pipeline
+        pip install -r requirements.txt
+        python scraper.py
+    - run: |
+        git config user.email "action@github.com"
+        git config user.name "GitHub Action"
+        git add job_scraper_pipeline/data/
+        git commit -m "Update jobs data" || exit 0
+        git push
