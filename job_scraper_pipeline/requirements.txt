@@ -4,3 +4,8 @@ pandas
 fastapi
 uvicorn
 lxml
+apscheduler
+cloudscraper
+selenium
+cfscrape
+fake-useragent
