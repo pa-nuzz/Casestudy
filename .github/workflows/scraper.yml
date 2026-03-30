@@ -2,35 +2,24 @@ name: Daily Job Scraper
 
 on:
   schedule:
-    # Run every day at 9:00 AM UTC
     - cron: '0 9 * * *'
   workflow_dispatch:
-    # Allow manual trigger
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
-      
-    - name: Set up Python
-      uses: actions/setup-python@v5
+    - uses: actions/checkout@v4
+    - uses: actions/setup-python@v5
       with:
         python-version: '3.11'
-        
-    - name: Install dependencies
-      run: |
+    - run: |
+        cd job_scraper_pipeline
         pip install -r requirements.txt
-        
-    - name: Run scraper
-      run: python scraper.py
-      
-    - name: Commit and push changes
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add data/jobs.csv data/jobs.json
-        git commit -m "Update jobs data - $(date +'%Y-%m-%d')" || exit 0
+        python scraper.py
+    - run: |
+        git config user.email "action@github.com"
+        git config user.name "GitHub Action"
+        git add job_scraper_pipeline/data/
+        git commit -m "Update jobs data" || exit 0
         git push
